@@ -1,0 +1,1 @@
+Library/Framework built to enable event tracking in ColdFusion applications, designed to offer user auditing and a history of thier activity within an application.
